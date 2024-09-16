@@ -13,7 +13,7 @@ You will have to play the role of the client as well as the data scientist to co
 Analysis of the ways an effective email spam detection.
 
 **Which topic did you choose to apply the data science methodology to? (2 points)**
-I chose email for pesonal, business, etc as my topic and my problem daily that many people as the same problem too with applying the data science methodology.
+I chose email for personal, business, etc as my topic and my problem daily that many people as the same problem too with applying the data science methodology.
 
 **Next, you will play the role of the client and the data scientist** 
 
@@ -24,7 +24,7 @@ I chose email for pesonal, business, etc as my topic and my problem daily that m
 **Phrase the problem as a question to be answered using data.**
 
 **For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?"**
-We receive many emails everyday. I may sort emails into some categories like Promotions, Social, Transaction, Important/Not Important, Spam, and so on to see which ones are worth looking at again and not worth looking at the contents of the email.
+We receive many emails every day. I may sort emails into some categories like Promotions, Social, Transaction, Important/Not Important, Spam, and so on to see which ones are worth looking at again and not worth looking at the contents of the email.
 
 Problem Question: How can we leverage data to improve email communication efficiency, strengthen email security against spam, and effectively categorize emails based on their content?
 
