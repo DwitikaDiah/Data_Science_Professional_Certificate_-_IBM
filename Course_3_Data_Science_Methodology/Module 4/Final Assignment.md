@@ -13,7 +13,7 @@ You will have to play the role of the client as well as the data scientist to co
 Analysis of the ways an effective email spam detection.
 
 **Which topic did you choose to apply the data science methodology to? (2 points)**
-I chose Emails as my topic to apply the data science methodology.
+I chose email for pesonal, business, etc as my topic and my problem daily that many people as the same problem too with applying the data science methodology.
 
 **Next, you will play the role of the client and the data scientist** 
 
